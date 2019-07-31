@@ -17,8 +17,8 @@ Email: quang.n.che@gmail.com
 Resume: https://www.dropbox.com/s/dgx28x4kq2x8bci/quang_resume.pdf?dl=0
 
 Additional: 
-  https://www.linkedin.com/in/quangc/
-  https://github.com/quangChe
+  - https://www.linkedin.com/in/quangc/
+  - https://github.com/quangChe
 
 ## Intro
 
