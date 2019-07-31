@@ -16,9 +16,11 @@ Expo is an ecosystem of tools and services built around React Native to develop 
 ```
 cd app/
 touch API_KEY.js // On mac
+```
 
-// inside API_KEY.js
-API_KEY=[Your Google API key (with Places API enabled)]
+**app/API_KEY.js**
+```
+export const API_KEY= // Your Google API key (with Places API enabled)
 ```
 
 ### 3. Boot Up Expo Dev Tools
